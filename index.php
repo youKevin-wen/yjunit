@@ -2,7 +2,7 @@
 
 require './vendor/autoload.php';
 
-use You\YJunit\Test;
+use Yoyou\YJunit\Test;
 
 $t = new Test();
 

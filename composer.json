@@ -1,17 +1,17 @@
 {
-    "name": "you\/yjunit",
-    "description": "this is you junit",
+    "name": "yoyou\/yjunit",
+    "description": "this is yoyou junit",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "you",
+            "name": "yoyou",
             "email": "1255209648@qq.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "You\\YJunit\\": "src"
+            "Yoyou\\YJunit\\": "src"
         }
     },
     "require": {}
