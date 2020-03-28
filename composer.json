@@ -14,5 +14,12 @@
             "Yoyou\\YJunit\\": "src"
         }
     },
-    "require": {}
+    "require": {},
+    "extra":{
+        "laravel":{
+            "providers":[
+                "Yoyou\\YJunit\\Providers\\YJunitServiceProvider"
+            ]
+        }
+    }
 }
