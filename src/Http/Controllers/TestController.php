@@ -1,6 +1,6 @@
 <?php
 
-namespace You\YJunit\Http\Controllers;
+namespace Yoyou\YJunit\Http\Controllers;
 
 use Illuminate\Routing\Controller as BaseController;
 

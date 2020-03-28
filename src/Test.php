@@ -1,6 +1,6 @@
 <?php
 
-namespace You\YJunit;
+namespace Yoyou\YJunit;
 
 class Test
 {

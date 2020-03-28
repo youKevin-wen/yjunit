@@ -1,6 +1,6 @@
 <?php
 
-namespace You\YJunit\Providers;
+namespace Yoyou\YJunit\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Route;
@@ -31,7 +31,7 @@ class YJunitServiceProvider extends ServiceProvider
     private function routeConfiguration()
     {
         return [
-            'namespace' => 'You\YJunit\Http\Controllers',
+            'namespace' => 'Yoyou\YJunit\Http\Controllers',
             'prefix' => 'yjunit',
             'middleware' => 'web',
         ];
